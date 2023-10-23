@@ -1,0 +1,17 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "docs/index.html",
+  "scripts": {
+    "start": "npx http-server -c-1 ./docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "tutorialSource": "https://www.youtube.com/watch?v=mY1nzvYsWOY&list=PLL_H5w4KA8dP9pPayzYxHCD4IQ80nkfY9&index=11"
+}
